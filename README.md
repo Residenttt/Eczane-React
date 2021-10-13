@@ -4,10 +4,10 @@ It is a project that lists the pharmacies according to the selected province and
 
 ## Languages and Technologies Used in this Project
 
-| Language / Technology | :arrow_right:  |  
+| :arrow_right: | Language / Technology  |  
 | ------------- |:-------------:|
-| ReactJS | :arrow_right:  | 
-| TypeScript | :arrow_right:  | 
-| Axios | :arrow_right:  |  
-| Semantic UI | :arrow_right:  | 
+| :arrow_right: |  ReactJS | 
+| :arrow_right: | TypeScript | 
+| :arrow_right: | Axios  |  
+| :arrow_right: | Semantic UI  | 
 
